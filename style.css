@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    background-color: #000;
+    background-image: url(https://drive.google.com/file/d/1WBqeZmM58GuDVCgDdoDzOhRWvzWmG3On/view?usp=share_link);
+
+    background-position: center;
+    background-size: 70%;
+    color: #fff;
+    padding: 0 8%;
+}
